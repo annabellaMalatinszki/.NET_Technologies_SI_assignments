@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\AssemblyAttrDemo.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\AssemblyAttrDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\AssemblyAttrDemo.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\AssemblyAttrDemo.pdb
