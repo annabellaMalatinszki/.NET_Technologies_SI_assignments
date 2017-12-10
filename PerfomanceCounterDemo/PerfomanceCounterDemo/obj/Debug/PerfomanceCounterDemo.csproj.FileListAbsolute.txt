@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\bin\Debug\PerfomanceCounterDemo.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\bin\Debug\PerfomanceCounterDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\bin\Debug\PerfomanceCounterDemo.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\obj\Debug\PerfomanceCounterDemo.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\obj\Debug\PerfomanceCounterDemo.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\obj\Debug\PerfomanceCounterDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\PerfomanceCounterDemo\PerfomanceCounterDemo\obj\Debug\PerfomanceCounterDemo.pdb
