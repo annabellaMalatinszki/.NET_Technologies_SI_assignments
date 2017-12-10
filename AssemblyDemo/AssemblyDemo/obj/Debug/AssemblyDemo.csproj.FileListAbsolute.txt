@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\bin\Debug\AssemblyDemo.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\bin\Debug\AssemblyDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\bin\Debug\AssemblyDemo.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\obj\Debug\AssemblyDemo.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\obj\Debug\AssemblyDemo.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\obj\Debug\AssemblyDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_module_SI_assignments\AssemblyDemo\AssemblyDemo\obj\Debug\AssemblyDemo.pdb
