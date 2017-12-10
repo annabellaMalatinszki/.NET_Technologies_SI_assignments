@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\bin\Debug\AssemblyDemo2.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\bin\Debug\AssemblyDemo2.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\bin\Debug\AssemblyDemo2.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\obj\Debug\AssemblyDemo2.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\obj\Debug\AssemblyDemo2.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\obj\Debug\AssemblyDemo2.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\AssemblyDemo2\AssemblyDemo2\obj\Debug\AssemblyDemo2.pdb
