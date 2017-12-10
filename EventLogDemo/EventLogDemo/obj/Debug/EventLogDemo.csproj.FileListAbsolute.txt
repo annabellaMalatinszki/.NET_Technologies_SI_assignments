@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\bin\Debug\EventLogDemo.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\bin\Debug\EventLogDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\bin\Debug\EventLogDemo.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\EventLogDemo\EventLogDemo\obj\Debug\EventLogDemo.pdb
