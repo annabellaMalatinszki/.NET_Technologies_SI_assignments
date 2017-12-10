@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.pdb
