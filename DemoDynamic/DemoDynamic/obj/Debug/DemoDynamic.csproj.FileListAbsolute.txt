@@ -1,0 +1,7 @@
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.exe.config
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.pdb
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.exe
+C:\Users\amala\Documents\Codecool\C#\.NET_Technologies_SI_assignments\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.pdb
